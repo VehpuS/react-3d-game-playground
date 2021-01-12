@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-3d-game-playground/static/css/main.511295b7.chunk.css",
+    "main.js": "/react-3d-game-playground/static/js/main.d7724c4d.chunk.js",
+    "main.js.map": "/react-3d-game-playground/static/js/main.d7724c4d.chunk.js.map",
+    "runtime-main.js": "/react-3d-game-playground/static/js/runtime-main.688c9892.js",
+    "runtime-main.js.map": "/react-3d-game-playground/static/js/runtime-main.688c9892.js.map",
+    "static/js/2.4f0f57c0.chunk.js": "/react-3d-game-playground/static/js/2.4f0f57c0.chunk.js",
+    "static/js/2.4f0f57c0.chunk.js.map": "/react-3d-game-playground/static/js/2.4f0f57c0.chunk.js.map",
+    "index.html": "/react-3d-game-playground/index.html",
+    "static/css/main.511295b7.chunk.css.map": "/react-3d-game-playground/static/css/main.511295b7.chunk.css.map",
+    "static/js/2.4f0f57c0.chunk.js.LICENSE.txt": "/react-3d-game-playground/static/js/2.4f0f57c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.688c9892.js",
+    "static/js/2.4f0f57c0.chunk.js",
+    "static/css/main.511295b7.chunk.css",
+    "static/js/main.d7724c4d.chunk.js"
+  ]
+}
